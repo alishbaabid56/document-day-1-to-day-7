@@ -126,6 +126,11 @@ Team Member 4: Deployment preparation and staging environment setup.
 Lessons Learned
 Collaboration: Effective communication and task division are key to success.
 
+https://github.com/alishbaabid56/Rental_E-commerce_Hackathon2025
+
+"This is the GitHub repo of my project. I didn’t know this had to be submitted as well, even though I submitted its Vercel link on time."
+
+
 Testing: Early and frequent testing ensures a stable application.
 
 Optimization: Performance optimization is crucial for user satisfaction.
